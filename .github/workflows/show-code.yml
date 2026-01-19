@@ -13,4 +13,4 @@ jobs:
       - name: Show README
         run: |
           echo "📄 README.md content:"
-          cat README.m
+          cat README.md
